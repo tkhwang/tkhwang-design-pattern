@@ -1,4 +1,4 @@
-# tkhwang-tkhwang-introduction-to-design-pattern
+# tkhwang-introduction-to-design-pattern
 
 ## Creational design pattern
 
